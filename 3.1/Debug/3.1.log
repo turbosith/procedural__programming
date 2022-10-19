@@ -1,0 +1,11 @@
+﻿  app.cpp
+  b.cpp
+  base.cpp
+C:\Users\79165\source\repos\3.1\base.cpp(30,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.1\base.cpp(37,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.1\base.cpp(57,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.1\base.cpp(72,31): warning C4018: <: несоответствие типов со знаком и без знака
+  c.cpp
+  main.cpp
+  Создание кода...
+  3.1.vcxproj -> C:\Users\79165\source\repos\3.1\Debug\3.1.exe

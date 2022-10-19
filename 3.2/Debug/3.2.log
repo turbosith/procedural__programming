@@ -1,0 +1,12 @@
+﻿  cl_base.cpp
+C:\Users\79165\source\repos\3.2\cl_base.cpp(31,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(92,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(95,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(102,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(186,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(191,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\3.2\cl_base.cpp(198,22): warning C4018: <: несоответствие типов со знаком и без знака
+  3.2.vcxproj -> C:\Users\79165\source\repos\3.2\Debug\3.2.exe
