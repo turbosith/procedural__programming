@@ -1,0 +1,5 @@
+﻿  appeal.cpp
+C:\Users\79165\source\repos\appeal\appeal.h(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\appeal\appeal.h(34,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79165\source\repos\appeal\appeal.h(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  appeal.vcxproj -> C:\Users\79165\source\repos\appeal\Debug\appeal.exe
