@@ -1,0 +1,3 @@
+﻿  doublelist.cpp
+C:\Users\79165\source\repos\doublelist\doublelist.cpp(4,29): warning C4101: ptr: неиспользованная локальная переменная
+  doublelist.vcxproj -> C:\Users\79165\source\repos\doublelist\Debug\doublelist.exe
