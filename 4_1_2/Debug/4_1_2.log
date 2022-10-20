@@ -1,0 +1,12 @@
+﻿  cl1.cpp
+C:\Users\79165\source\repos\4_1_2\cl1.cpp(4,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  cl2.cpp
+C:\Users\79165\source\repos\4_1_2\cl2.cpp(4,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  cl3.cpp
+C:\Users\79165\source\repos\4_1_2\cl3.cpp(4,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  cl4.cpp
+C:\Users\79165\source\repos\4_1_2\cl4.cpp(4,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+C:\Users\79165\source\repos\4_1_2\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  4_1_2.vcxproj -> C:\Users\79165\source\repos\4_1_2\Debug\4_1_2.exe
